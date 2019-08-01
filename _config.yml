@@ -1,11 +1,11 @@
 # Site settings
 author: Jane Wysoki
-title: 
+title: gimme a </br>
 header-img: img/home-bg.png
 email: jane.wysoki@gmail.com
 copyright_name: Jane Wysoki
 description: > # this means to ignore newlines until "baseurl:"
-  
+  the trials and tribulations of learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  janewysoki
