@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "Why I Code"
+date:       2019-08-01 17:05:30 +0000
+permalink:  why_i_code
+---
+
+
+I am currently a paralegal. I have seen first-hand how technology improves productivity in case management, electronic discovery (“e-discovery”), billing and even legal document creation. I depend on e-discovery management systems to multiply my productivity and deliverable accuracy. My bosses love the improvement in production. I love the application and the way it can re-energize a mature, repetitive function and free up human capital for more engaged activity. It also opened my eyes to the overall world of data-driven analytics and applications. I want to build on that beginner’s knowledge and use the opening I have found in law to discover the world of coding and software design.
+ 
+I know Flatiron’s program is the right next step for me. I feel passionate about what I’m learning in a way I’ve never experienced in my professional career. I love that there’s always room for growth when it comes to expanding your skill set in software development and I look forward to doing so. It feels refreshing to be learning something new and I’m grateful I found an area of study that’s challenging, but also entertaining and exciting. I’m excited for what’s to come!
