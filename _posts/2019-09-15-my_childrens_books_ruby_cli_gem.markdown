@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Children's Books Ruby CLI Gem"
-date:       2019-09-15 22:53:25 +0000
+date:       2019-09-15 18:53:26 -0400
 permalink:  my_childrens_books_ruby_cli_gem
 ---
 
@@ -79,12 +79,12 @@ module ChildrensBooks
     class CLI
 
         def call 
-				    ChildrensBooks::Scraper.scrape
+            ChildrensBooks::Scraper.scrape
             puts "Welcome to the Children's Books Database!"
-			     @input = nil
-		       menu
-			     while @input != "exit"
-			         @input = gets.chomp
+            @input = nil
+            menu
+            while @input != "exit" 
+                @input = gets.chomp
                 if @input == "1"
                     puts "Here are some books 2-4 year olds will love:"
                 elsif @input == "2"
