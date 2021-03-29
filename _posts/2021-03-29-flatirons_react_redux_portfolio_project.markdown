@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Flatiron's React/Redux Portfolio Project"
-date:       2021-03-29 18:49:42 +0000
+date:       2021-03-29 14:49:42 -0400
 permalink:  flatirons_react_redux_portfolio_project
 ---
 
 
-The content of your blog post goes here.I just finished my fifth (and last) project for the Flatiron School. I was the busiest I’ve ever been at my full-time job and also balanced learning the hardest section we’ve had yet at school (JSX, Redux, React). I may not be as good at React and Redux as I’d be without having to work long hours, but I now know for certain I have the drive to become great. I had some sleepless nights watching various study sessions and working my way through the curriculum, but I always looked forward to making the switch every night from my legal career to my coding lessons. It makes me feel confident I’ve chosen the right path. 
+I just finished my fifth (and last) project for the Flatiron School. I was the busiest I’ve ever been at my full-time job and also balanced learning the hardest section we’ve had yet at school (JSX, Redux, React). I may not be as good at React and Redux as I’d be without having to work long hours, but I now know for certain I have the drive to become great. I had some sleepless nights watching various study sessions and working my way through the curriculum, but I always looked forward to making the switch every night from my legal career to my coding lessons. It makes me feel confident I’ve chosen the right path. 
 
 Overall, this module really challenged my knowledge of JavaScript fundamentals. I had to make sure I understood the basics of JS before I could begin to comprehend React, and I had to make sure I knew React quite well before knowing how to do anything with Redux.
 
